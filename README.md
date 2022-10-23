@@ -4,6 +4,8 @@
 
 Initial code release for the [LayoutEnhancer paper](https://arxiv.org/abs/TBD), code and scripts for dataset preprocessing, training and layout synthesis.
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/u0Yfi5Rh7N4" title="LayoutEnhancer: Generating Good Indoor Layouts from Imperfect Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Setup
 The simplest way to set up the project is to create a new Anaconda environment using the provided `environment.yaml` file:
 ```
