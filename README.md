@@ -1,7 +1,8 @@
-### Technical Paper presented at [ACM SIGGRAPGH Asia 2022](https://sa2022.siggraph.org/en/full-program/). 
+# LayoutEnhancer: Generating Good Indoor Layouts from Imperfect Data
 
 ### Kurt Leimer, Paul Guerrero, Tomer Weiss, Przemyslaw Musialski
-# LayoutEnhancer: Generating Good Indoor Layouts from Imperfect Data
+
+### Technical Paper presented at [ACM SIGGRAPGH Asia 2022](https://sa2022.siggraph.org/en/full-program/). 
 
 
 
